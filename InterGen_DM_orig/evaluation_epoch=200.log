@@ -1,0 +1,41 @@
+==================== Replication 0 ====================
+Time: 2025-05-15 10:13:43.100832
+---> [ground truth] MM Distance: 3.7952
+---> [ground truth] R_precision: (top 1): 0.5333 (top 2): 0.6867 (top 3): 0.8067 
+---> [InterGen] MM Distance: 3.9571
+---> [InterGen] R_precision: (top 1): 0.2533 (top 2): 0.3333 (top 3): 0.4067 
+Time: 2025-05-15 10:13:52.682848
+---> [ground truth] FID: 4.9316
+---> [InterGen] FID: 38.9951
+!!! DONE !!!
+==================== Replication 1 ====================
+Time: 2025-05-15 10:17:16.682207
+---> [ground truth] MM Distance: 3.7919
+---> [ground truth] R_precision: (top 1): 0.5533 (top 2): 0.7733 (top 3): 0.8400 
+---> [InterGen] MM Distance: 3.9755
+---> [InterGen] R_precision: (top 1): 0.2267 (top 2): 0.3200 (top 3): 0.4000 
+Time: 2025-05-15 10:17:25.814900
+---> [ground truth] FID: 4.7372
+---> [InterGen] FID: 37.1200
+!!! DONE !!!
+==================== Replication 2 ====================
+Time: 2025-05-15 10:20:47.263317
+---> [ground truth] MM Distance: 3.7756
+---> [ground truth] R_precision: (top 1): 0.5533 (top 2): 0.7667 (top 3): 0.8467 
+---> [InterGen] MM Distance: 3.9727
+---> [InterGen] R_precision: (top 1): 0.2400 (top 2): 0.3600 (top 3): 0.4133 
+Time: 2025-05-15 10:20:56.313165
+---> [ground truth] FID: 4.8883
+---> [InterGen] FID: 39.8824
+!!! DONE !!!
+========== MM Distance Summary ==========
+---> [ground truth] Mean: 3.7876 CInterval: 0.0097
+---> [InterGen] Mean: 3.9684 CInterval: 0.0092
+========== R_precision Summary ==========
+---> [ground truth](top 1) Mean: 0.5467 CInt: 0.0107;(top 2) Mean: 0.7422 CInt: 0.0446;(top 3) Mean: 0.8311 CInt: 0.0198;
+---> [InterGen](top 1) Mean: 0.2400 CInt: 0.0123;(top 2) Mean: 0.3378 CInt: 0.0188;(top 3) Mean: 0.4067 CInt: 0.0062;
+========== FID Summary ==========
+---> [ground truth] Mean: 4.8524 CInterval: 0.0943
+---> [InterGen] Mean: 38.6658 CInterval: 1.3031
+========== Diversity Summary ==========
+========== MultiModality Summary ==========

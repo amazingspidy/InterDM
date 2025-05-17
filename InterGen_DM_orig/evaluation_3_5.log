@@ -1,0 +1,334 @@
+==================== Replication 0 ====================
+Time: 2025-03-04 18:59:36.663899
+---> [ground truth] MM Distance: 3.7834
+---> [ground truth] R_precision: (top 1): 0.4261 (top 2): 0.6184 (top 3): 0.7282 
+---> [InterGen] MM Distance: 3.7978
+---> [InterGen] R_precision: (top 1): 0.4138 (top 2): 0.5843 (top 3): 0.6648 
+Time: 2025-03-04 19:00:01.125280
+---> [ground truth] FID: 0.2683
+---> [InterGen] FID: 6.3968
+Time: 2025-03-04 19:00:17.979274
+---> [ground truth] Diversity: 7.7465
+---> [InterGen] Diversity: 7.7470
+Time: 2025-03-04 19:00:17.995515
+---> [InterGen] Multimodality: 1.2493
+!!! DONE !!!
+==================== Replication 1 ====================
+Time: 2025-03-04 19:34:42.019898
+---> [ground truth] MM Distance: 3.7890
+---> [ground truth] R_precision: (top 1): 0.4015 (top 2): 0.5833 (top 3): 0.7064 
+---> [InterGen] MM Distance: 3.8000
+---> [InterGen] R_precision: (top 1): 0.4271 (top 2): 0.5710 (top 3): 0.6629 
+Time: 2025-03-04 19:35:01.630180
+---> [ground truth] FID: 0.3275
+---> [InterGen] FID: 6.4052
+Time: 2025-03-04 19:35:07.400181
+---> [ground truth] Diversity: 7.7944
+---> [InterGen] Diversity: 7.9189
+Time: 2025-03-04 19:35:07.403695
+---> [InterGen] Multimodality: 1.2983
+!!! DONE !!!
+==================== Replication 2 ====================
+Time: 2025-03-04 20:08:56.035846
+---> [ground truth] MM Distance: 3.7833
+---> [ground truth] R_precision: (top 1): 0.4347 (top 2): 0.6174 (top 3): 0.7140 
+---> [InterGen] MM Distance: 3.7942
+---> [InterGen] R_precision: (top 1): 0.4489 (top 2): 0.6089 (top 3): 0.6970 
+Time: 2025-03-04 20:09:20.522981
+---> [ground truth] FID: 0.3063
+---> [InterGen] FID: 6.1239
+Time: 2025-03-04 20:09:35.025462
+---> [ground truth] Diversity: 7.8014
+---> [InterGen] Diversity: 7.8768
+Time: 2025-03-04 20:09:35.031373
+---> [InterGen] Multimodality: 1.2429
+!!! DONE !!!
+==================== Replication 3 ====================
+Time: 2025-03-04 20:43:55.174552
+---> [ground truth] MM Distance: 3.7856
+---> [ground truth] R_precision: (top 1): 0.4233 (top 2): 0.6146 (top 3): 0.7121 
+---> [InterGen] MM Distance: 3.7995
+---> [InterGen] R_precision: (top 1): 0.4347 (top 2): 0.6136 (top 3): 0.6960 
+Time: 2025-03-04 20:44:53.609783
+---> [ground truth] FID: 0.2931
+---> [InterGen] FID: 6.8581
+Time: 2025-03-04 20:45:23.668222
+---> [ground truth] Diversity: 7.8416
+---> [InterGen] Diversity: 7.9542
+Time: 2025-03-04 20:45:23.671289
+---> [InterGen] Multimodality: 1.2461
+!!! DONE !!!
+==================== Replication 4 ====================
+Time: 2025-03-04 21:19:52.162750
+---> [ground truth] MM Distance: 3.7847
+---> [ground truth] R_precision: (top 1): 0.4157 (top 2): 0.6165 (top 3): 0.7150 
+---> [InterGen] MM Distance: 3.8028
+---> [InterGen] R_precision: (top 1): 0.4233 (top 2): 0.5720 (top 3): 0.6705 
+Time: 2025-03-04 21:20:49.269045
+---> [ground truth] FID: 0.2628
+---> [InterGen] FID: 6.9267
+Time: 2025-03-04 21:21:19.579267
+---> [ground truth] Diversity: 7.7579
+---> [InterGen] Diversity: 7.8448
+Time: 2025-03-04 21:21:19.584405
+---> [InterGen] Multimodality: 1.2826
+!!! DONE !!!
+==================== Replication 5 ====================
+Time: 2025-03-04 21:55:56.766735
+---> [ground truth] MM Distance: 3.7849
+---> [ground truth] R_precision: (top 1): 0.4318 (top 2): 0.6193 (top 3): 0.7093 
+---> [InterGen] MM Distance: 3.8013
+---> [InterGen] R_precision: (top 1): 0.4223 (top 2): 0.5767 (top 3): 0.6572 
+Time: 2025-03-04 21:56:54.256578
+---> [ground truth] FID: 0.2790
+---> [InterGen] FID: 6.8736
+Time: 2025-03-04 21:57:25.119825
+---> [ground truth] Diversity: 7.8420
+---> [InterGen] Diversity: 7.8455
+Time: 2025-03-04 21:57:25.122240
+---> [InterGen] Multimodality: 1.2712
+!!! DONE !!!
+==================== Replication 6 ====================
+Time: 2025-03-04 22:32:32.816188
+---> [ground truth] MM Distance: 3.7883
+---> [ground truth] R_precision: (top 1): 0.4214 (top 2): 0.5852 (top 3): 0.6922 
+---> [InterGen] MM Distance: 3.7976
+---> [InterGen] R_precision: (top 1): 0.4318 (top 2): 0.6108 (top 3): 0.6780 
+Time: 2025-03-04 22:33:29.641904
+---> [ground truth] FID: 0.2909
+---> [InterGen] FID: 6.5650
+Time: 2025-03-04 22:33:59.602008
+---> [ground truth] Diversity: 7.7335
+---> [InterGen] Diversity: 7.9319
+Time: 2025-03-04 22:33:59.604069
+---> [InterGen] Multimodality: 1.1014
+!!! DONE !!!
+==================== Replication 7 ====================
+Time: 2025-03-04 23:06:50.693725
+---> [ground truth] MM Distance: 3.7831
+---> [ground truth] R_precision: (top 1): 0.4290 (top 2): 0.6108 (top 3): 0.6960 
+---> [InterGen] MM Distance: 3.7925
+---> [InterGen] R_precision: (top 1): 0.4422 (top 2): 0.5862 (top 3): 0.6752 
+Time: 2025-03-04 23:07:48.320931
+---> [ground truth] FID: 0.2622
+---> [InterGen] FID: 6.4148
+Time: 2025-03-04 23:08:18.362957
+---> [ground truth] Diversity: 7.8247
+---> [InterGen] Diversity: 7.8745
+Time: 2025-03-04 23:08:18.364887
+---> [InterGen] Multimodality: 1.1071
+!!! DONE !!!
+==================== Replication 8 ====================
+Time: 2025-03-04 23:40:32.219824
+---> [ground truth] MM Distance: 3.7833
+---> [ground truth] R_precision: (top 1): 0.4403 (top 2): 0.6080 (top 3): 0.6951 
+---> [InterGen] MM Distance: 3.7975
+---> [InterGen] R_precision: (top 1): 0.4375 (top 2): 0.5786 (top 3): 0.6705 
+Time: 2025-03-04 23:41:30.131330
+---> [ground truth] FID: 0.2856
+---> [InterGen] FID: 6.5714
+Time: 2025-03-04 23:41:58.839916
+---> [ground truth] Diversity: 7.7506
+---> [InterGen] Diversity: 7.7294
+Time: 2025-03-04 23:41:58.841828
+---> [InterGen] Multimodality: 1.2958
+!!! DONE !!!
+==================== Replication 9 ====================
+Time: 2025-03-05 00:17:49.282859
+---> [ground truth] MM Distance: 3.7859
+---> [ground truth] R_precision: (top 1): 0.4025 (top 2): 0.6089 (top 3): 0.7131 
+---> [InterGen] MM Distance: 3.7982
+---> [InterGen] R_precision: (top 1): 0.4299 (top 2): 0.6042 (top 3): 0.6790 
+Time: 2025-03-05 00:18:45.765833
+---> [ground truth] FID: 0.2816
+---> [InterGen] FID: 6.3998
+Time: 2025-03-05 00:19:15.436411
+---> [ground truth] Diversity: 7.8043
+---> [InterGen] Diversity: 7.9219
+Time: 2025-03-05 00:19:15.440957
+---> [InterGen] Multimodality: 1.1662
+!!! DONE !!!
+==================== Replication 10 ====================
+Time: 2025-03-05 00:53:20.238916
+---> [ground truth] MM Distance: 3.7864
+---> [ground truth] R_precision: (top 1): 0.4261 (top 2): 0.5881 (top 3): 0.6932 
+---> [InterGen] MM Distance: 3.8036
+---> [InterGen] R_precision: (top 1): 0.4252 (top 2): 0.5805 (top 3): 0.6638 
+Time: 2025-03-05 00:54:17.295678
+---> [ground truth] FID: 0.2905
+---> [InterGen] FID: 6.3756
+Time: 2025-03-05 00:54:46.974776
+---> [ground truth] Diversity: 7.8265
+---> [InterGen] Diversity: 7.7710
+Time: 2025-03-05 00:54:46.976936
+---> [InterGen] Multimodality: 1.2432
+!!! DONE !!!
+==================== Replication 11 ====================
+Time: 2025-03-05 01:30:12.293799
+---> [ground truth] MM Distance: 3.7854
+---> [ground truth] R_precision: (top 1): 0.4195 (top 2): 0.6127 (top 3): 0.7102 
+---> [InterGen] MM Distance: 3.8000
+---> [InterGen] R_precision: (top 1): 0.4309 (top 2): 0.5824 (top 3): 0.6544 
+Time: 2025-03-05 01:31:07.766012
+---> [ground truth] FID: 0.2959
+---> [InterGen] FID: 6.6430
+Time: 2025-03-05 01:31:38.028060
+---> [ground truth] Diversity: 7.7042
+---> [InterGen] Diversity: 7.7460
+Time: 2025-03-05 01:31:38.031230
+---> [InterGen] Multimodality: 1.1459
+!!! DONE !!!
+==================== Replication 12 ====================
+Time: 2025-03-05 02:04:08.298548
+---> [ground truth] MM Distance: 3.7861
+---> [ground truth] R_precision: (top 1): 0.4205 (top 2): 0.5966 (top 3): 0.6998 
+---> [InterGen] MM Distance: 3.8012
+---> [InterGen] R_precision: (top 1): 0.4413 (top 2): 0.5994 (top 3): 0.6837 
+Time: 2025-03-05 02:05:02.972716
+---> [ground truth] FID: 0.3007
+---> [InterGen] FID: 6.2786
+Time: 2025-03-05 02:05:32.443344
+---> [ground truth] Diversity: 7.7381
+---> [InterGen] Diversity: 7.7884
+Time: 2025-03-05 02:05:32.451343
+---> [InterGen] Multimodality: 1.2662
+!!! DONE !!!
+==================== Replication 13 ====================
+Time: 2025-03-05 02:41:15.290579
+---> [ground truth] MM Distance: 3.7878
+---> [ground truth] R_precision: (top 1): 0.4100 (top 2): 0.5928 (top 3): 0.6884 
+---> [InterGen] MM Distance: 3.8019
+---> [InterGen] R_precision: (top 1): 0.4186 (top 2): 0.5672 (top 3): 0.6534 
+Time: 2025-03-05 02:42:09.523429
+---> [ground truth] FID: 0.3326
+---> [InterGen] FID: 6.8585
+Time: 2025-03-05 02:42:38.439404
+---> [ground truth] Diversity: 7.7900
+---> [InterGen] Diversity: 7.7872
+Time: 2025-03-05 02:42:38.441587
+---> [InterGen] Multimodality: 1.2392
+!!! DONE !!!
+==================== Replication 14 ====================
+Time: 2025-03-05 03:16:28.849673
+---> [ground truth] MM Distance: 3.7848
+---> [ground truth] R_precision: (top 1): 0.4233 (top 2): 0.6203 (top 3): 0.7131 
+---> [InterGen] MM Distance: 3.8017
+---> [InterGen] R_precision: (top 1): 0.4328 (top 2): 0.5900 (top 3): 0.6610 
+Time: 2025-03-05 03:17:22.810892
+---> [ground truth] FID: 0.3080
+---> [InterGen] FID: 5.9431
+Time: 2025-03-05 03:17:52.846940
+---> [ground truth] Diversity: 7.7852
+---> [InterGen] Diversity: 7.9687
+Time: 2025-03-05 03:17:52.853231
+---> [InterGen] Multimodality: 1.2909
+!!! DONE !!!
+==================== Replication 15 ====================
+Time: 2025-03-05 03:51:45.666833
+---> [ground truth] MM Distance: 3.7840
+---> [ground truth] R_precision: (top 1): 0.4328 (top 2): 0.5947 (top 3): 0.6989 
+---> [InterGen] MM Distance: 3.7946
+---> [InterGen] R_precision: (top 1): 0.4470 (top 2): 0.6136 (top 3): 0.6913 
+Time: 2025-03-05 03:53:19.136275
+---> [ground truth] FID: 0.2903
+---> [InterGen] FID: 6.6160
+Time: 2025-03-05 03:54:07.899043
+---> [ground truth] Diversity: 7.7349
+---> [InterGen] Diversity: 7.9135
+Time: 2025-03-05 03:54:07.901268
+---> [InterGen] Multimodality: 1.2692
+!!! DONE !!!
+==================== Replication 16 ====================
+Time: 2025-03-05 04:30:31.358774
+---> [ground truth] MM Distance: 3.7878
+---> [ground truth] R_precision: (top 1): 0.3958 (top 2): 0.6004 (top 3): 0.6960 
+---> [InterGen] MM Distance: 3.7993
+---> [InterGen] R_precision: (top 1): 0.4233 (top 2): 0.5985 (top 3): 0.6837 
+Time: 2025-03-05 04:31:27.072281
+---> [ground truth] FID: 0.2597
+---> [InterGen] FID: 6.3371
+Time: 2025-03-05 04:31:55.419535
+---> [ground truth] Diversity: 7.7270
+---> [InterGen] Diversity: 7.8363
+Time: 2025-03-05 04:31:55.423288
+---> [InterGen] Multimodality: 1.1331
+!!! DONE !!!
+==================== Replication 17 ====================
+Time: 2025-03-05 05:05:20.451973
+---> [ground truth] MM Distance: 3.7870
+---> [ground truth] R_precision: (top 1): 0.4252 (top 2): 0.6042 (top 3): 0.6951 
+---> [InterGen] MM Distance: 3.7993
+---> [InterGen] R_precision: (top 1): 0.4299 (top 2): 0.5786 (top 3): 0.6657 
+Time: 2025-03-05 05:06:14.125006
+---> [ground truth] FID: 0.3176
+---> [InterGen] FID: 6.4930
+Time: 2025-03-05 05:06:43.200823
+---> [ground truth] Diversity: 7.7709
+---> [InterGen] Diversity: 7.8333
+Time: 2025-03-05 05:06:43.203703
+---> [InterGen] Multimodality: 1.1223
+!!! DONE !!!
+==================== Replication 18 ====================
+Time: 2025-03-05 05:42:04.026664
+---> [ground truth] MM Distance: 3.7840
+---> [ground truth] R_precision: (top 1): 0.4233 (top 2): 0.6042 (top 3): 0.7102 
+---> [InterGen] MM Distance: 3.7988
+---> [InterGen] R_precision: (top 1): 0.4403 (top 2): 0.5975 (top 3): 0.6818 
+Time: 2025-03-05 05:42:58.307516
+---> [ground truth] FID: 0.2880
+---> [InterGen] FID: 6.4702
+Time: 2025-03-05 05:43:26.712856
+---> [ground truth] Diversity: 7.7868
+---> [InterGen] Diversity: 7.8754
+Time: 2025-03-05 05:43:26.717921
+---> [InterGen] Multimodality: 1.2481
+!!! DONE !!!
+==================== Replication 19 ====================
+Time: 2025-03-05 06:17:27.658154
+---> [ground truth] MM Distance: 3.7863
+---> [ground truth] R_precision: (top 1): 0.4214 (top 2): 0.5994 (top 3): 0.7083 
+---> [InterGen] MM Distance: 3.8007
+---> [InterGen] R_precision: (top 1): 0.4318 (top 2): 0.5862 (top 3): 0.6695 
+Time: 2025-03-05 06:18:21.373596
+---> [ground truth] FID: 0.3185
+---> [InterGen] FID: 6.5465
+Time: 2025-03-05 06:18:49.816399
+---> [ground truth] Diversity: 7.8015
+---> [InterGen] Diversity: 7.7886
+Time: 2025-03-05 06:18:49.818102
+---> [InterGen] Multimodality: 1.2477
+!!! DONE !!!
+========== MM Distance Summary ==========
+---> [ground truth] Mean: 3.7855 CInterval: 0.0008
+---> [InterGen] Mean: 3.7991 CInterval: 0.0012
+========== R_precision Summary ==========
+---> [ground truth](top 1) Mean: 0.4212 CInt: 0.0049;(top 2) Mean: 0.6048 CInt: 0.0050;(top 3) Mean: 0.7047 CInt: 0.0044;
+---> [InterGen](top 1) Mean: 0.4316 CInt: 0.0040;(top 2) Mean: 0.5900 CInt: 0.0063;(top 3) Mean: 0.6730 CInt: 0.0056;
+========== FID Summary ==========
+---> [ground truth] Mean: 0.2930 CInterval: 0.0090
+---> [InterGen] Mean: 6.5048 CInterval: 0.1075
+========== Diversity Summary ==========
+---> [ground truth] Mean: 7.7781 CInterval: 0.0172
+---> [InterGen] Mean: 7.8477 CInterval: 0.0312
+========== MultiModality Summary ==========
+---> [InterGen] Mean: 1.2233 CInterval: 0.0285
+
+
+# 결과 분석
+문제점
+1. R_precision 도 GT랑 InterGen이랑 크게 차이가 안남. -> 말이 안됨
+TODO: R_precision 어떻게 계산이 되는지 확인하기.
+
+2. MM Distance도 InterGen꺼가 GT랑 너무 비슷하게 나옴.
+3. MutilModality도 너무 작게 나옴.
+
+
+정상
+1. FID는 그나마 정상 범주 내에 들어감.
+2. Diversity도 그나마 정상범주..?
+
+https://github.com/tr3e/InterGen/issues/35
+
+https://github.com/tr3e/InterGen/issues/44
+
+https://github.com/tr3e/InterGen/issues/9
