@@ -40,13 +40,15 @@
 ```bash
 # Training
 python tools/train.py
-
+```
+```bash
 # Inference
 python tools/infer.py
-
+```
+```bash
 # Evaluation
 python tools/eval.py
-
+```
 
 Results:
 
