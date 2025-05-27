@@ -50,8 +50,6 @@ python tools/infer.py
 python tools/eval.py
 ```
 
-## 📊 Results & Examples
-
 ## 📈 Quantitative Results
 
 <table>
@@ -65,7 +63,7 @@ python tools/eval.py
   </tr>
 </table>
 
-
+## 📊 Examples
 
 <table>
   <tr>
