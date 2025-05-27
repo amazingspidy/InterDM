@@ -3,11 +3,21 @@ Project goals: Explore the idea of leveraging clustering techniques to guide the
 Propose several methods to inject these cluster-based cues into the generation pipeline
 
 InterHuman DATA SET: https://drive.google.com/drive/folders/1oyozJ4E7Sqgsr7Q747Na35tWo5CjNYk3
+
+
 Download checkpoint: https://drive.google.com/drive/folders/1ojxlLLud2dJaMmTBovWE6-2SPRX7FQmD
 
-Training:
-Inference:
-Evaluation:
+Make checkpoints folder in root directory and place checkpoint file into /checkpoints.
+
+Environment setup (See the following repositories): https://github.com/tr3e/InterGen
+
+
+Training: `python tools/train.py`
+
+Inference: `python tools/infer.py`
+
+Evaluation: `python tools/eval.py`
+
 
 
 Results:
