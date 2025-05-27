@@ -23,7 +23,9 @@ Evaluation: `python tools/eval.py`
 Results:
 
 examples:
-https://github.com/user-attachments/assets/025ee9da-d4d7-4407-a1bd-5308a1563113
+![boxing](https://github.com/user-attachments/assets/0867c5e6-87e9-4b74-b158-8ea11bb164a7)
+
+
 https://github.com/user-attachments/assets/95727356-67f8-4dd3-96bf-88a67444c8cf
 https://github.com/user-attachments/assets/4ae329a6-a8d3-4477-b78f-cac66445d4ec
 https://github.com/user-attachments/assets/b453df2c-54a3-42e5-ac8e-586242aab81f
