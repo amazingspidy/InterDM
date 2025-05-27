@@ -52,6 +52,11 @@ python tools/eval.py
 
 ## 📊 Results & Examples
 
+<img width="636" alt="table1" src="https://github.com/user-attachments/assets/bc8f6dab-9660-4d03-957e-0b33d5b33e24" />
+<img width="627" alt="table2" src="https://github.com/user-attachments/assets/b08b75e0-d441-495a-b5b5-1c8a71b2bbb5" />
+
+
+
 <table>
   <tr>
     <td align="center"><b>Boxing</b></td>
